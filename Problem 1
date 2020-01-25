@@ -1,0 +1,19 @@
+Weight Arranged Sequence ( *WAS*)
+A sequence of string is a *WAS* if the strings in the sequence are arranged in such a way the sum of ordinals of each character in the string is in ascending order.
+
+Input is a sequence of strings and Output is WAS if it's *WAS* else it's  NOPE
+
+*Sample 1*
+Input
+A bus went zoom
+Output
+WAS
+
+EXPLANATION:
+Take a character's ordained value, that is A=1, B=2 and so on, and in a word, of the sentence, calculate the sum of the values of the letters... If in increasing order, Print WAS... If the word sums of a sentence look like   1 4 9 17... Then it is a WAS, else it is not...
+
+*Sample 2*
+Input
+I like ice tea
+Output
+NOPE
