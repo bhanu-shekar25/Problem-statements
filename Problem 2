@@ -1,0 +1,34 @@
+Reena loves strings that satisfy certain criteria. She named them ReeWords. A string is a ReeWord if 
+
+1. Length is Min 6 and Max 20
+2. It must contain at least  one *r*
+3. It can contain only the following special characters #$!@
+4. Must never contain space
+
+The input is as TC - no. Of  testcases and continued by TC no.of strings 
+
+The output is as 
+ReeWord if is satisfies the criteria
+Nay! If it doesn't satisfy
+
+*Sample 1*
+Input 
+2
+Remember
+Shama$
+Output
+ReeWord
+ReeWord
+
+*Sample 2*
+Input 
+4
+R$$
+Lovers
+Gth this
+#$@!rr
+Output
+Nay!
+ReeWord
+Nay!
+ReeWord
