@@ -1,0 +1,3 @@
+Aditya owns a shop that sells customized cars. The features of a car depend on the customer requirements. If the customer is under age of 7;  he just gives a red car, with AA battery and remote. If the customer is points out a display piece ; he gives typically exactly the same model. If the customer specifies the color alone; he gives the car with that color, AA battery and remote. If the customer specifies all the details he gives the car will all those features.
+
+Write a program to achieve this
